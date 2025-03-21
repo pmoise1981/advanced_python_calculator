@@ -1,0 +1,6 @@
+pandas
+pytest
+flask
+numpy
+pytest-cov
+pylint
